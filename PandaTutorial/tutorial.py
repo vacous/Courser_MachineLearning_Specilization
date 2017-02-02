@@ -50,7 +50,3 @@ test = np.array(test) # convert to np.array
 print(test) 
 print(pd.DataFrame(test)) # convert back 
 
-"""
-Example 03 
-"""
-
